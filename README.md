@@ -47,8 +47,3 @@ This project detects vehicles, tracks them with persistent IDs, and counts them 
 
 To develop a scalable real-time traffic monitoring system for smart traffic management and analytics.
 
----
-
-## 🔗 Repository
-
-Add your GitHub link here.
